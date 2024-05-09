@@ -7,6 +7,7 @@ export const Container = styled("div", {
   marginLeft: "auto",
   display: "flex",
   alignItems: "center",
+  gap: "$4",
 });
 
 export const Hero = styled("div", {
